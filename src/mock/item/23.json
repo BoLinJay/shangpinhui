@@ -1,0 +1,177 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"32|36\":24,\"32|35\":23}",
+        "price": 9898,
+        "categoryView": {
+            "id": 285,
+            "category1Id": 6,
+            "category1Name": "电脑办公",
+            "category2Id": 33,
+            "category2Name": "电脑整机",
+            "category3Id": 285,
+            "category3Name": "笔记本"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 13,
+                "spuId": 7,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 32,
+                        "spuId": 7,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "白",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 33,
+                        "spuId": 7,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "黑",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 34,
+                        "spuId": 7,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "银",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    }
+                ]
+            },
+            {
+                "id": 14,
+                "spuId": 7,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 35,
+                        "spuId": 7,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "国内",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 36,
+                        "spuId": 7,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "进口",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 23,
+            "spuId": 7,
+            "price": 9898,
+            "skuName": "Apple MacBook Pro 13.3 八核M1芯片 16G 512G SSD 深空灰 笔记本电脑 轻薄本 Z11C",
+            "skuDesc": "【AppleMacBook Pro 13.3】Apple MacBook Pro 13.3 八核M1芯片 16G 512G SSD 深空灰 笔记本电脑 轻薄本 Z11C",
+            "weight": "2.00",
+            "tmId": 2,
+            "category3Id": 285,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPWeAFVgZAAAPlccbmyo410.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 111,
+                    "skuId": 23,
+                    "imgName": "54d618d2dc29e662.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPWeAdNunAAAnu-zdV8Q250.jpg",
+                    "spuImgId": 44,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 112,
+                    "skuId": 23,
+                    "imgName": "170c985e7aede1ae.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPWeAFVgZAAAPlccbmyo410.jpg",
+                    "spuImgId": 45,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 113,
+                    "skuId": 23,
+                    "imgName": "402bd553a13a9bf3(3).jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPWeAS8npAAAN2wn5ESo446.jpg",
+                    "spuImgId": 46,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 114,
+                    "skuId": 23,
+                    "imgName": "402bd553a13a9bf3(4).jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPWeAQPy8AAEDoGFPfcc238.jpg",
+                    "spuImgId": 47,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 115,
+                    "skuId": 23,
+                    "imgName": "402bd553a13a9bf3.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPWeAQ4EWAABTr5kkBlM542.jpg",
+                    "spuImgId": 48,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 93,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 23,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 94,
+                    "attrId": 26,
+                    "valueId": 22,
+                    "skuId": 23,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "14.0"
+                },
+                {
+                    "id": 95,
+                    "attrId": 122,
+                    "valueId": 210,
+                    "skuId": 23,
+                    "attrName": "类型",
+                    "valueName": "轻薄笔记本"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 45,
+                    "skuId": 23,
+                    "spuId": 7,
+                    "saleAttrValueId": 32,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "白"
+                },
+                {
+                    "id": 46,
+                    "skuId": 23,
+                    "spuId": 7,
+                    "saleAttrValueId": 35,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "国内"
+                }
+            ]
+        }
+    },
+    "ok": true
+}

@@ -1,0 +1,201 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"46|49\":29,\"47|49\":30}",
+        "price": 4545,
+        "categoryView": {
+            "id": 86,
+            "category1Id": 3,
+            "category1Name": "家用电器",
+            "category2Id": 16,
+            "category2Name": "大 家 电",
+            "category3Id": 86,
+            "category3Name": "平板电视"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 19,
+                "spuId": 10,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 46,
+                        "spuId": 10,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "黑",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 47,
+                        "spuId": 10,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "白",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            },
+            {
+                "id": 20,
+                "spuId": 10,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 48,
+                        "spuId": 10,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "国产",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 49,
+                        "spuId": 10,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "进口",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 30,
+            "spuId": 10,
+            "price": 4545,
+            "skuName": "海信 Vidda 55V1F-R 55英寸 4K超高清 超薄电视 全面屏电视 智慧屏 1.5G+8G 222",
+            "skuDesc": "海信 Vidda 55V1F-R 55英寸 4K超高清 超薄电视 全面屏电视 智慧屏 1.5G+8G 222海信 Vidda 55V1F-R 55英寸 4K超高清 超薄电视 全面屏电视 智慧屏 1.5G+8G 222",
+            "weight": "3.00",
+            "tmId": 26,
+            "category3Id": 86,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyQC6AW3xhAAASmSzwKtk802.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 148,
+                    "skuId": 30,
+                    "imgName": "54126e85c23d0893.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyQC6AVJ6_AAAYXfLJt7M588.jpg",
+                    "spuImgId": 60,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 149,
+                    "skuId": 30,
+                    "imgName": "337637ab93384b34.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyQC6AW3xhAAASmSzwKtk802.jpg",
+                    "spuImgId": 61,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 150,
+                    "skuId": 30,
+                    "imgName": "afe5f268ab34f229(3).jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyQC6AczXIAAAahd_wieQ232.jpg",
+                    "spuImgId": 62,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 151,
+                    "skuId": 30,
+                    "imgName": "afe5f268ab34f229(5).jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyQC-AUAgBAAKzJ9ArCl8428.jpg",
+                    "spuImgId": 63,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 152,
+                    "skuId": 30,
+                    "imgName": "afe5f268ab34f229.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyQC6AemATAAC3xSHGMY4583.jpg",
+                    "spuImgId": 64,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 166,
+                    "attrId": 70,
+                    "valueId": 93,
+                    "skuId": 30,
+                    "attrName": "品牌",
+                    "valueName": "国内"
+                },
+                {
+                    "id": 167,
+                    "attrId": 72,
+                    "valueId": 97,
+                    "skuId": 30,
+                    "attrName": "功率",
+                    "valueName": "100W"
+                },
+                {
+                    "id": 168,
+                    "attrId": 88,
+                    "valueId": 135,
+                    "skuId": 30,
+                    "attrName": "昂贵价格",
+                    "valueName": "200"
+                },
+                {
+                    "id": 169,
+                    "attrId": 97,
+                    "valueId": 147,
+                    "skuId": 30,
+                    "attrName": "分辨率",
+                    "valueName": "4K超高清"
+                },
+                {
+                    "id": 170,
+                    "attrId": 121,
+                    "valueId": 206,
+                    "skuId": 30,
+                    "attrName": "电视类型",
+                    "valueName": "8K"
+                },
+                {
+                    "id": 171,
+                    "attrId": 97,
+                    "valueId": 146,
+                    "skuId": 30,
+                    "attrName": "分辨率",
+                    "valueName": "8K超高清"
+                },
+                {
+                    "id": 172,
+                    "attrId": 121,
+                    "valueId": 207,
+                    "skuId": 30,
+                    "attrName": "电视类型",
+                    "valueName": "MINI LED"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 59,
+                    "skuId": 30,
+                    "spuId": 10,
+                    "saleAttrValueId": 47,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "白"
+                },
+                {
+                    "id": 60,
+                    "skuId": 30,
+                    "spuId": 10,
+                    "saleAttrValueId": 49,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "进口"
+                }
+            ]
+        }
+    },
+    "ok": true
+}

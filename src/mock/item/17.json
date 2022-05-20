@@ -1,0 +1,193 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"16|17\":14,\"15|17\":17,\"16|18\":15,\"15|18\":16}",
+        "price": 2323,
+        "categoryView": {
+            "id": 61,
+            "category1Id": 2,
+            "category1Name": "手机",
+            "category2Id": 13,
+            "category2Name": "手机通讯",
+            "category3Id": 61,
+            "category3Name": "手机"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 7,
+                "spuId": 4,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 15,
+                        "spuId": 4,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "亮黑色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 16,
+                        "spuId": 4,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "冰霜银",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "spuId": 4,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 17,
+                        "spuId": 4,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "6G+128G",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 18,
+                        "spuId": 4,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "8G+128G",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 17,
+            "spuId": 4,
+            "price": 2323,
+            "skuName": "华为P40 5G【白条免息可选送豪礼】全网通智能手机 支持鸿蒙HarmonyOS 零度白 8G+128G",
+            "skuDesc": "华为P40 5G【白条免息可选送豪礼】全网通智能手机 支持鸿蒙HarmonyOS 零度白 8G+128G华为P40 5G【白条免息可选送豪礼】全网通智能手机 支持鸿蒙HarmonyOS 零度白 8G+128G",
+            "weight": "1.00",
+            "tmId": 3,
+            "category3Id": 61,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaALrngAAHGDqdpFtU741.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 86,
+                    "skuId": 17,
+                    "imgName": "19b35dc3ebe1579e.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklWAQwdLAACW7swImE4752.jpg",
+                    "spuImgId": 19,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 87,
+                    "skuId": 17,
+                    "imgName": "1009958cd1bc4e70.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklWAUJH9AACHXa0HPC8315.jpg",
+                    "spuImgId": 20,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 88,
+                    "skuId": 17,
+                    "imgName": "76c7922bb9d226d0.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAPVqkAAEoiSa9WoM463.jpg",
+                    "spuImgId": 21,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 89,
+                    "skuId": 17,
+                    "imgName": "9316593be50948f8.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaALrngAAHGDqdpFtU741.jpg",
+                    "spuImgId": 22,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 90,
+                    "skuId": 17,
+                    "imgName": "89e57f95b32e5385.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAbYPbAAHJf20K7J4980.jpg",
+                    "spuImgId": 23,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 91,
+                    "skuId": 17,
+                    "imgName": "ee11befc0d6dfa18.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-skleASDLsAAFcVo0uNCs962.jpg",
+                    "spuImgId": 24,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 65,
+                    "attrId": 106,
+                    "valueId": 176,
+                    "skuId": 17,
+                    "attrName": "手机一级",
+                    "valueName": "安卓手机"
+                },
+                {
+                    "id": 66,
+                    "attrId": 23,
+                    "valueId": 169,
+                    "skuId": 17,
+                    "attrName": "运行内存",
+                    "valueName": "6G"
+                },
+                {
+                    "id": 67,
+                    "attrId": 24,
+                    "valueId": 166,
+                    "skuId": 17,
+                    "attrName": "机身内存",
+                    "valueName": "256G"
+                },
+                {
+                    "id": 68,
+                    "attrId": 111,
+                    "valueId": 182,
+                    "skuId": 17,
+                    "attrName": "CPU型号",
+                    "valueName": "骁龙845"
+                },
+                {
+                    "id": 69,
+                    "attrId": 112,
+                    "valueId": 187,
+                    "skuId": 17,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "6.85-6.94英寸"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 33,
+                    "skuId": 17,
+                    "spuId": 4,
+                    "saleAttrValueId": 15,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "亮黑色"
+                },
+                {
+                    "id": 34,
+                    "skuId": 17,
+                    "spuId": 4,
+                    "saleAttrValueId": 17,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "6G+128G"
+                }
+            ]
+        }
+    },
+    "ok": true
+}

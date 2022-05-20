@@ -1,0 +1,193 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"16|17\":14,\"15|17\":17,\"16|18\":15,\"15|18\":16}",
+        "price": 4188,
+        "categoryView": {
+            "id": 61,
+            "category1Id": 2,
+            "category1Name": "手机",
+            "category2Id": 13,
+            "category2Name": "手机通讯",
+            "category3Id": 61,
+            "category3Name": "手机"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 7,
+                "spuId": 4,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 15,
+                        "spuId": 4,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "亮黑色",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 16,
+                        "spuId": 4,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "冰霜银",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "spuId": 4,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 17,
+                        "spuId": 4,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "6G+128G",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 18,
+                        "spuId": 4,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "8G+128G",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 14,
+            "spuId": 4,
+            "price": 4188,
+            "skuName": "华为 HUAWEI P40 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 6GB+128GB冰霜银全网通5G手机",
+            "skuDesc": "华为 HUAWEI P40 麒麟990 5G SoC芯片 5000万超感知徕卡三摄 30倍数字变焦 6GB+128GB冰霜银全网通5G手机",
+            "weight": "1.00",
+            "tmId": 3,
+            "category3Id": 61,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAbYPbAAHJf20K7J4980.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 65,
+                    "skuId": 14,
+                    "imgName": "19b35dc3ebe1579e.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklWAQwdLAACW7swImE4752.jpg",
+                    "spuImgId": 19,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 66,
+                    "skuId": 14,
+                    "imgName": "1009958cd1bc4e70.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklWAUJH9AACHXa0HPC8315.jpg",
+                    "spuImgId": 20,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 67,
+                    "skuId": 14,
+                    "imgName": "76c7922bb9d226d0.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAPVqkAAEoiSa9WoM463.jpg",
+                    "spuImgId": 21,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 68,
+                    "skuId": 14,
+                    "imgName": "89e57f95b32e5385.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-sklaAbYPbAAHJf20K7J4980.jpg",
+                    "spuImgId": 23,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 69,
+                    "skuId": 14,
+                    "imgName": "ee11befc0d6dfa18.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-skleASDLsAAFcVo0uNCs962.jpg",
+                    "spuImgId": 24,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 70,
+                    "skuId": 14,
+                    "imgName": "fa4ffba88e29ee03.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-skleAJ6zNAADSblcDDEM109.jpg",
+                    "spuImgId": 25,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 71,
+                    "skuId": 14,
+                    "imgName": "a01d74c9878967fa.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-skleAa3edAAKUHkq4s24909.jpg",
+                    "spuImgId": 26,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 53,
+                    "attrId": 106,
+                    "valueId": 176,
+                    "skuId": 14,
+                    "attrName": "手机一级",
+                    "valueName": "安卓手机"
+                },
+                {
+                    "id": 54,
+                    "attrId": 107,
+                    "valueId": 178,
+                    "skuId": 14,
+                    "attrName": "二级手机",
+                    "valueName": "华为"
+                },
+                {
+                    "id": 55,
+                    "attrId": 23,
+                    "valueId": 169,
+                    "skuId": 14,
+                    "attrName": "运行内存",
+                    "valueName": "6G"
+                },
+                {
+                    "id": 56,
+                    "attrId": 24,
+                    "valueId": 82,
+                    "skuId": 14,
+                    "attrName": "机身内存",
+                    "valueName": "128G"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 27,
+                    "skuId": 14,
+                    "spuId": 4,
+                    "saleAttrValueId": 16,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "冰霜银"
+                },
+                {
+                    "id": 28,
+                    "skuId": 14,
+                    "spuId": 4,
+                    "saleAttrValueId": 17,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "6G+128G"
+                }
+            ]
+        }
+    },
+    "ok": true
+}

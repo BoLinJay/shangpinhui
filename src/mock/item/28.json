@@ -1,0 +1,289 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"42|44\":27,\"43|45\":28}",
+        "price": 8989,
+        "categoryView": {
+            "id": 285,
+            "category1Id": 6,
+            "category1Name": "电脑办公",
+            "category2Id": 33,
+            "category2Name": "电脑整机",
+            "category3Id": 285,
+            "category3Name": "笔记本"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 17,
+                "spuId": 9,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 42,
+                        "spuId": 9,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "黑",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 43,
+                        "spuId": 9,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "白",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            },
+            {
+                "id": 18,
+                "spuId": 9,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 44,
+                        "spuId": 9,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "国产",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 45,
+                        "spuId": 9,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "进口",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 28,
+            "spuId": 9,
+            "price": 8989,
+            "skuName": "联想ThinkBook 14 2021款 酷睿版(0SCD) 英特尔酷睿i5 14英寸轻薄笔记本(i5-1155G7 16G 512G 高色域 Win1122222",
+            "skuDesc": "联想ThinkBook 14 2021款 酷睿版(0SCD) 英特尔酷睿i5 14英寸轻薄笔记本(i5-1155G7 16G 512G 高色域 Win1122222联想ThinkBook 14 2021款 酷睿版(0SCD) 英特尔酷睿i5 14英寸轻薄笔记本(i5-1155G7 16G 512G 高色域 Win1122222",
+            "weight": "2.00",
+            "tmId": 24,
+            "category3Id": 285,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyP16AJOUFAAAON3tMr7k619.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 139,
+                    "skuId": 28,
+                    "imgName": "8ea47cf5f9845166(3).jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyP16AffhYAAAON3tMr7k821.jpg",
+                    "spuImgId": 56,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 140,
+                    "skuId": 28,
+                    "imgName": "8ea47cf5f9845166(4).jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyP16AJOUFAAAON3tMr7k619.jpg",
+                    "spuImgId": 57,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 141,
+                    "skuId": 28,
+                    "imgName": "8ea47cf5f9845166(5).jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyP16AOekUAAFeX6oRIz0531.jpg",
+                    "spuImgId": 58,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 142,
+                    "skuId": 28,
+                    "imgName": "8ea47cf5f9845166.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyP16AJe3YAACJgnTTU5E348.jpg",
+                    "spuImgId": 59,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 142,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 28,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 143,
+                    "attrId": 26,
+                    "valueId": 22,
+                    "skuId": 28,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "14.0"
+                },
+                {
+                    "id": 144,
+                    "attrId": 122,
+                    "valueId": 210,
+                    "skuId": 28,
+                    "attrName": "类型",
+                    "valueName": "轻薄笔记本"
+                },
+                {
+                    "id": 145,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 28,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 146,
+                    "attrId": 66,
+                    "valueId": 85,
+                    "skuId": 28,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "15.6"
+                },
+                {
+                    "id": 147,
+                    "attrId": 67,
+                    "valueId": 87,
+                    "skuId": 28,
+                    "attrName": "系列",
+                    "valueName": "微软"
+                },
+                {
+                    "id": 148,
+                    "attrId": 122,
+                    "valueId": 211,
+                    "skuId": 28,
+                    "attrName": "类型",
+                    "valueName": "游戏笔记本"
+                },
+                {
+                    "id": 149,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 28,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 150,
+                    "attrId": 66,
+                    "valueId": 84,
+                    "skuId": 28,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "14"
+                },
+                {
+                    "id": 151,
+                    "attrId": 122,
+                    "valueId": 212,
+                    "skuId": 28,
+                    "attrName": "类型",
+                    "valueName": "高端轻薄笔记本"
+                },
+                {
+                    "id": 152,
+                    "attrId": 25,
+                    "valueId": 19,
+                    "skuId": 28,
+                    "attrName": "处理器",
+                    "valueName": "i3"
+                },
+                {
+                    "id": 153,
+                    "attrId": 66,
+                    "valueId": 84,
+                    "skuId": 28,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "14"
+                },
+                {
+                    "id": 154,
+                    "attrId": 122,
+                    "valueId": 213,
+                    "skuId": 28,
+                    "attrName": "类型",
+                    "valueName": "高性能轻薄笔记本"
+                },
+                {
+                    "id": 155,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 28,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 156,
+                    "attrId": 66,
+                    "valueId": 84,
+                    "skuId": 28,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "14"
+                },
+                {
+                    "id": 157,
+                    "attrId": 122,
+                    "valueId": 210,
+                    "skuId": 28,
+                    "attrName": "类型",
+                    "valueName": "轻薄笔记本"
+                },
+                {
+                    "id": 158,
+                    "attrId": 25,
+                    "valueId": 19,
+                    "skuId": 28,
+                    "attrName": "处理器",
+                    "valueName": "i3"
+                },
+                {
+                    "id": 159,
+                    "attrId": 66,
+                    "valueId": 85,
+                    "skuId": 28,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "15.6"
+                },
+                {
+                    "id": 160,
+                    "attrId": 122,
+                    "valueId": 213,
+                    "skuId": 28,
+                    "attrName": "类型",
+                    "valueName": "高性能轻薄笔记本"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 55,
+                    "skuId": 28,
+                    "spuId": 9,
+                    "saleAttrValueId": 43,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "白"
+                },
+                {
+                    "id": 56,
+                    "skuId": 28,
+                    "spuId": 9,
+                    "saleAttrValueId": 45,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "进口"
+                }
+            ]
+        }
+    },
+    "ok": true
+}

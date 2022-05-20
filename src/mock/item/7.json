@@ -1,0 +1,177 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"5|7\":1974,\"6|7\":5,\"5|8\":6,\"6|8\":7,\"5\":2156,\"6\":2157}",
+        "price": 1299,
+        "categoryView": {
+            "id": 61,
+            "category1Id": 2,
+            "category1Name": "手机",
+            "category2Id": 13,
+            "category2Name": "手机通讯",
+            "category3Id": 61,
+            "category3Name": "手机"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 3,
+                "spuId": 2,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 5,
+                        "spuId": 2,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "冰雾白",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 6,
+                        "spuId": 2,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "明月灰",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "spuId": 2,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 7,
+                        "spuId": 2,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "4G+128G",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 8,
+                        "spuId": 2,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "8G+128G",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 7,
+            "spuId": 2,
+            "price": 1299,
+            "skuName": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 8GB+128GB 明月灰 游戏智能手机 小米 红米",
+            "skuDesc": "Redmi 10X 4G Helio G85游戏芯 4800万超清四摄 5020mAh大电量 小孔全面屏 128GB大存储 4GB+128GB 冰雾白 游戏智能手机 小米 红米",
+            "weight": "1.00",
+            "tmId": 1,
+            "category3Id": 61,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 33,
+                    "skuId": 7,
+                    "imgName": "2b78b6fdabfd2fbe.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/01/rBHu8l-rgJqAHPnoAAF9hoDNfsc505.jpg",
+                    "spuImgId": 7,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 34,
+                    "skuId": 7,
+                    "imgName": "5d5c57ab443f5fbb.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgJqAbNFZAADi9nT5SuM524.jpg",
+                    "spuImgId": 8,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 35,
+                    "skuId": 7,
+                    "imgName": "cef3c55b8caad783.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgJqAMq2nAAGtjwY17fA932.jpg",
+                    "spuImgId": 9,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 36,
+                    "skuId": 7,
+                    "imgName": "6eaaecc91b9ad059.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgJqAXjRKAAFpxKwrSvY886.jpg",
+                    "spuImgId": 10,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 37,
+                    "skuId": 7,
+                    "imgName": "b7bea7af48e935fd.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/00/02/rBHu8l-rgJqARA19AAFuZ18W_ks439.jpg",
+                    "spuImgId": 11,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 25,
+                    "attrId": 106,
+                    "valueId": 176,
+                    "skuId": 7,
+                    "attrName": "手机一级",
+                    "valueName": "安卓手机"
+                },
+                {
+                    "id": 26,
+                    "attrId": 107,
+                    "valueId": 177,
+                    "skuId": 7,
+                    "attrName": "二级手机",
+                    "valueName": "小米"
+                },
+                {
+                    "id": 27,
+                    "attrId": 23,
+                    "valueId": 83,
+                    "skuId": 7,
+                    "attrName": "运行内存",
+                    "valueName": "8G"
+                },
+                {
+                    "id": 28,
+                    "attrId": 24,
+                    "valueId": 82,
+                    "skuId": 7,
+                    "attrName": "机身内存",
+                    "valueName": "128G"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 13,
+                    "skuId": 7,
+                    "spuId": 2,
+                    "saleAttrValueId": 6,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "明月灰"
+                },
+                {
+                    "id": 14,
+                    "skuId": 7,
+                    "spuId": 2,
+                    "saleAttrValueId": 8,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "8G+128G"
+                }
+            ]
+        }
+    },
+    "ok": true
+}

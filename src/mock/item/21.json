@@ -1,0 +1,193 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"21|24\":21,\"20|23\":2230,\"19|22\":2276}",
+        "price": 2424,
+        "categoryView": {
+            "id": 61,
+            "category1Id": 2,
+            "category1Name": "手机",
+            "category2Id": 13,
+            "category2Name": "手机通讯",
+            "category3Id": 61,
+            "category3Name": "手机"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 9,
+                "spuId": 5,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 19,
+                        "spuId": 5,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "黑",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 20,
+                        "spuId": 5,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "白",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 21,
+                        "spuId": 5,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "青",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "spuId": 5,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 22,
+                        "spuId": 5,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "电信",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 23,
+                        "spuId": 5,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "移动",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 24,
+                        "spuId": 5,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "联通",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 21,
+            "spuId": 5,
+            "price": 2424,
+            "skuName": "vivo S10 5G手机 8GB+256GB 青柠 超轻薄机身 前置4400万超清双摄 自然柔光人像 6nm旗舰芯片 拍照手机 青色",
+            "skuDesc": "机身重量（g）\n173g\n机身宽度（mm）\n73.67mm\n机身厚度（mm）\n7.29mm\n机身长度（mm）\n158.2mm\n机身材质\n玻璃",
+            "weight": "1.00",
+            "tmId": 6,
+            "category3Id": 61,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAIZosAACYibCV0ks310.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 105,
+                    "skuId": 21,
+                    "imgName": "e052a4c32eacc679.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAZNPMAABsvhVes9Y194.jpg",
+                    "spuImgId": 32,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 106,
+                    "skuId": 21,
+                    "imgName": "bb05afbe41330602.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAJl-6AACc_mvzmbQ292.jpg",
+                    "spuImgId": 31,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 107,
+                    "skuId": 21,
+                    "imgName": "643ed8f4a46eb58d.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAIZosAACYibCV0ks310.jpg",
+                    "spuImgId": 30,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 108,
+                    "skuId": 21,
+                    "imgName": "9d9934cae91bce4b.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DA/rBHu8mGxO7mAcdzzAABDAYQkYSM975.jpg",
+                    "spuImgId": 29,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 83,
+                    "attrId": 106,
+                    "valueId": 176,
+                    "skuId": 21,
+                    "attrName": "手机一级",
+                    "valueName": "安卓手机"
+                },
+                {
+                    "id": 84,
+                    "attrId": 23,
+                    "valueId": 169,
+                    "skuId": 21,
+                    "attrName": "运行内存",
+                    "valueName": "6G"
+                },
+                {
+                    "id": 85,
+                    "attrId": 24,
+                    "valueId": 82,
+                    "skuId": 21,
+                    "attrName": "机身内存",
+                    "valueName": "128G"
+                },
+                {
+                    "id": 86,
+                    "attrId": 111,
+                    "valueId": 183,
+                    "skuId": 21,
+                    "attrName": "CPU型号",
+                    "valueName": "麒麟990"
+                },
+                {
+                    "id": 87,
+                    "attrId": 112,
+                    "valueId": 189,
+                    "skuId": 21,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "6.65-6.74英寸"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 41,
+                    "skuId": 21,
+                    "spuId": 5,
+                    "saleAttrValueId": 21,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "青"
+                },
+                {
+                    "id": 42,
+                    "skuId": 21,
+                    "spuId": 5,
+                    "saleAttrValueId": 24,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "联通"
+                }
+            ]
+        }
+    },
+    "ok": true
+}

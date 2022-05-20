@@ -1,0 +1,249 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"38|40\":26,\"38|41\":25}",
+        "price": 7777,
+        "categoryView": {
+            "id": 285,
+            "category1Id": 6,
+            "category1Name": "电脑办公",
+            "category2Id": 33,
+            "category2Name": "电脑整机",
+            "category3Id": 285,
+            "category3Name": "笔记本"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 15,
+                "spuId": 8,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 37,
+                        "spuId": 8,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "黑",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 38,
+                        "spuId": 8,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "白",
+                        "saleAttrName": "颜色",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 39,
+                        "spuId": 8,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "灰",
+                        "saleAttrName": "颜色",
+                        "isChecked": "0"
+                    }
+                ]
+            },
+            {
+                "id": 16,
+                "spuId": 8,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 40,
+                        "spuId": 8,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "国产",
+                        "saleAttrName": "版本",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 41,
+                        "spuId": 8,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "进口",
+                        "saleAttrName": "版本",
+                        "isChecked": "1"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": 25,
+            "spuId": 8,
+            "price": 7777,
+            "skuName": "LG gram 2021款16英寸轻薄本 16_10大画面 Evo平台 笔记本电脑(11代i5 16G 512G 2k屏",
+            "skuDesc": "LG gram 2021款16英寸轻薄本 16_10大画面 Evo平台 笔记本电脑(11代i5 16G 512G 2k屏LG gram 2021款16英寸轻薄本 16_10大画面 Evo平台 笔记本电脑(11代i5 16G 512G 2k屏",
+            "weight": "1.50",
+            "tmId": 27,
+            "category3Id": 285,
+            "skuDefaultImg": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPoqAT8gvAAAO8rObJmg520.jpg",
+            "isSale": 1,
+            "createTime": "2021-12-10 01:31:42",
+            "skuImageList": [
+                {
+                    "id": 121,
+                    "skuId": 25,
+                    "imgName": "47bb2d5b81d6f9fe.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPoqAT8gvAAAO8rObJmg520.jpg",
+                    "spuImgId": 49,
+                    "isDefault": "1"
+                },
+                {
+                    "id": 122,
+                    "skuId": 25,
+                    "imgName": "94d1805cbf70dcfd.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPoqAOYUeAAANGjX2CPs947.jpg",
+                    "spuImgId": 50,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 123,
+                    "skuId": 25,
+                    "imgName": "253e4a2964cc2d52.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPoqAO19CAAAOMhU-Cfw918.jpg",
+                    "spuImgId": 51,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 124,
+                    "skuId": 25,
+                    "imgName": "442dc282d3daad5d.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPoqAbRZEAAAyEsySOPc209.jpg",
+                    "spuImgId": 52,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 125,
+                    "skuId": 25,
+                    "imgName": "2813848622fd307b.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPoqAUG6lAAATWR-Zti0374.jpg",
+                    "spuImgId": 53,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 126,
+                    "skuId": 25,
+                    "imgName": "a045bcc6568c3897.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPoqAb1o6AAAStOjHjtE755.jpg",
+                    "spuImgId": 54,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 127,
+                    "skuId": 25,
+                    "imgName": "a2723de04dc07bae.jpg",
+                    "imgUrl": "http://47.93.148.192:8080/group1/M00/02/DC/rBHu8mGyPo2AXCgRAAANqqUdfJ8462.jpg",
+                    "spuImgId": 55,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 103,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 25,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 104,
+                    "attrId": 26,
+                    "valueId": 22,
+                    "skuId": 25,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "14.0"
+                },
+                {
+                    "id": 105,
+                    "attrId": 122,
+                    "valueId": 210,
+                    "skuId": 25,
+                    "attrName": "类型",
+                    "valueName": "轻薄笔记本"
+                },
+                {
+                    "id": 106,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 25,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 107,
+                    "attrId": 66,
+                    "valueId": 85,
+                    "skuId": 25,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "15.6"
+                },
+                {
+                    "id": 108,
+                    "attrId": 67,
+                    "valueId": 87,
+                    "skuId": 25,
+                    "attrName": "系列",
+                    "valueName": "微软"
+                },
+                {
+                    "id": 109,
+                    "attrId": 122,
+                    "valueId": 211,
+                    "skuId": 25,
+                    "attrName": "类型",
+                    "valueName": "游戏笔记本"
+                },
+                {
+                    "id": 110,
+                    "attrId": 25,
+                    "valueId": 20,
+                    "skuId": 25,
+                    "attrName": "处理器",
+                    "valueName": "i5"
+                },
+                {
+                    "id": 111,
+                    "attrId": 66,
+                    "valueId": 84,
+                    "skuId": 25,
+                    "attrName": "屏幕尺寸",
+                    "valueName": "14"
+                },
+                {
+                    "id": 112,
+                    "attrId": 122,
+                    "valueId": 212,
+                    "skuId": 25,
+                    "attrName": "类型",
+                    "valueName": "高端轻薄笔记本"
+                }
+            ],
+            "skuSaleAttrValueList": [
+                {
+                    "id": 49,
+                    "skuId": 25,
+                    "spuId": 8,
+                    "saleAttrValueId": 38,
+                    "saleAttrId": 1,
+                    "saleAttrName": "颜色",
+                    "saleAttrValueName": "白"
+                },
+                {
+                    "id": 50,
+                    "skuId": 25,
+                    "spuId": 8,
+                    "saleAttrValueId": 41,
+                    "saleAttrId": 2,
+                    "saleAttrName": "版本",
+                    "saleAttrValueName": "进口"
+                }
+            ]
+        }
+    },
+    "ok": true
+}
